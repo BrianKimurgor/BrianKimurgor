@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briankimurgor&show_icons=true&locale=en" alt="briankimurgor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briankimurgor&" alt="briankimurgor" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=briankimurgor&limit=5&theme=flat&combine_all_yearly_contributions=true)
